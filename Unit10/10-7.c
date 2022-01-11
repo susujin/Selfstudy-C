@@ -7,6 +7,5 @@ int main()
 	const char con3 = 't';
 	
 	printf("%llu %f %c\n", con1, con2, con3);
-
 	return 0;
 }
