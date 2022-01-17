@@ -1,0 +1,15 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main()
+{
+	unsigned char num1, num2;
+	scanf("%u %u", &num1, &num2);
+
+	printf("%u\n", num1 ^ num2);
+	printf("%u\n", num1 | num2);
+	printf("%u\n", num1 & num2);
+	printf("%u\n", ~num1);
+
+	return 0;
+}
