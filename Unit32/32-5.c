@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_d()
+int main()
 {
 	int num1 = 1;
 
