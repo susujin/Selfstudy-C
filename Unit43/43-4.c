@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main_s()
+int main()
 {
 	char s1[20];
 	sprintf(s1, "%dth %s", 9, "symphony");
