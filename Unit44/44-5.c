@@ -10,6 +10,7 @@ int main()
 	while (ptr != NULL)
 	{
 		printf("%s\n", ptr);
+		//strchr 문자열 안에서 문자 검색
 		ptr = strchr(ptr + 1, 'n');
 	}
 	return 0;

@@ -4,6 +4,8 @@
 
 int main()
 {
+	//strchr 공백검색 ' '
+	//strstr 공백검색 " "
 	char s1[1001];
 	scanf("%[^\n]s", s1);
 
