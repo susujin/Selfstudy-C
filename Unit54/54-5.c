@@ -5,7 +5,7 @@ union Data {
 	short num1;
 };
 
-int main_s()
+int main()
 {
 	union Data d1;
 	d1.num1 = 0x5678;

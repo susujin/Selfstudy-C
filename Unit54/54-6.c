@@ -6,7 +6,7 @@ union Data {
 	int num2;
 };
 
-int main_C()
+int main()
 {
 	union Data* d1 = malloc(sizeof(union Data));
 	d1->num2 = 1;

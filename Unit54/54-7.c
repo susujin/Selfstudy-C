@@ -5,7 +5,7 @@ union Data {
 	int num1;
 };
 
-int main_e()
+int main()
 {
 	union Data d1;
 	d1.num1 = 0x1111;
