@@ -18,5 +18,20 @@
     <ClCompile Include="55-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="55-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="55-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="55-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="55-9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="55-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
