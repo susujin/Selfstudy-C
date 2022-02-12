@@ -18,7 +18,7 @@
     <ClCompile Include="69-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스69-8.c">
+    <ClCompile Include="69-8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
