@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="71-10.c" />
+    <ClCompile Include="71-11.c" />
     <ClCompile Include="71-6.c" />
     <ClCompile Include="71-7.c" />
     <ClCompile Include="71-9.c" />

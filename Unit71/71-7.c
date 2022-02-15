@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int readData(char* buffer, int offset, int size, FILE* fp)
@@ -28,4 +28,4 @@ int main()
 	fclose(fp);
 
 	return 0;
-}*/
+}
