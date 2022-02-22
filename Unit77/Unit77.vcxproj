@@ -139,14 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="append-8.h" />
     <ClInclude Include="calc-7.h" />
     <ClInclude Include="calcdata-7.h" />
+    <ClInclude Include="data-8.h" />
     <ClInclude Include="print-7.h" />
+    <ClInclude Include="print-8.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="append-8.c" />
     <ClCompile Include="calc-7.c" />
     <ClCompile Include="main-7.c" />
+    <ClCompile Include="main-8.c" />
     <ClCompile Include="print-7.c" />
+    <ClCompile Include="print-8.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -24,6 +24,15 @@
     <ClInclude Include="print-7.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="data-8.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="append-8.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="print-8.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="calc-7.c">
@@ -33,6 +42,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="main-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="append-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="print-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main-8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
